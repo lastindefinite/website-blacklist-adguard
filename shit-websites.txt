@@ -1,5 +1,5 @@
-tvn24.pl
-wp.pl
-onet.pl
-demotywatory.pl
-wiocha.pl
+||tvn24.pl
+||wp.pl
+||onet.pl
+||demotywatory.pl
+||wiocha.pl
